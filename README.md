@@ -1,3 +1,6 @@
 # Awesome Rossum.ai
 
-- [Rossum SA extension for Chrome](https://github.com/mrtnzlml/rossum-sa-extension)
+Sorted alphabetically for now:
+
+- [Chrome extension for Solution Architects](https://github.com/mrtnzlml/rossum-sa-extension)
+- [The Solution Architect's Handbook](https://solutionarchitecthandbook.mrtnzlml.com/)
